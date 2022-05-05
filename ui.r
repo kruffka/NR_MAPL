@@ -80,7 +80,7 @@ shinyUI(navbarPage("5G Link Budget", selected = 2,
                              h3("Possible values for bw and scs:", style = "color:#20B2AA;"), 
                              titlePanel(title=div(img(src="https://sun9-71.userapi.com/wXSiLKCR4NCovL5IrjYcG3dHVAG1i6zG2w0kLQ/REW2Vy9AM0Q.jpg")))
                              )),
-                   tabPanel("About", h4("The app was maded by this people:", style = "color:#DC143C"),
+                   tabPanel("About", h4("The app was made by these people:", style = "color:#DC143C"),
                             
                             tags$a(
                               href="https://sun4-17.userapi.com/qpG5kgu3YTgKemj0KVH5s_E5JRd-tg9mswvkpA/FYSo6XuAea4.jpg", 
